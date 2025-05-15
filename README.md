@@ -1,2 +1,2 @@
-# Jam-loves-u
-🦭
+# Jam loves u
+     🦭🫶🏽
