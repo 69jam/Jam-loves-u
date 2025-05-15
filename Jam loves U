@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jam loves U</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      background-color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: Arial, sans-serif;
+      font-size: 5rem;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  Jam loves U
+</body>
+</html>
